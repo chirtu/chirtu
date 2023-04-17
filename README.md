@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>
 
 - 🔭 I’m currently working on [MazaoHub, EMA Retail](https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub, https://play.google.com/store/apps/details?id=com.ema.retail)
 
