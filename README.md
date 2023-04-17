@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Young Female Mobile Developer, Fatuma chitu</h1>
-<h3 align="center">A passionate Mobile developer from Tanzania</h3>
+<h1 align="center">Hi 👋, I'm Fatuma chitu, a only young female mobile developer😁.</h1>
+<h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3>
 
 
 
