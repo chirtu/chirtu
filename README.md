@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>
 
-- 🔭 I’m currently working on [MazaoHub, EMA Retail](https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub, https://play.google.com/store/apps/details?id=com.ema.retail)
+- 🔭 I’m currently working on [MazaoHub(https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub), EMA Retail(https://play.google.com/store/apps/details?id=com.ema.retail), Mashujaa App(https://play.google.com/store/apps/details?id=com.ujuzinet.mashujaa), Hopaje App ,EMASUITE PMS(iOS &android(https://play.google.com/store/apps/details?id=com.ujuznet.emasuite_pms)(https://apps.apple.com/app/emasuite-pms), ]
 
 - 🌱 I’m currently learning **Django, SpringBoot**
 
