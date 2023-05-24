@@ -11,7 +11,7 @@
 -  Hopaje App - (https://play.google.com/store/apps/details?id=com.ujuzinet.hopaje),
 -  EMASUITE PMS (iOS &android) - (https://play.google.com/store/apps/details?id=com.ujuznet.emasuite_pms),(https://apps.apple.com/app/emasuite-pms), 
 
-<!-- - 🌱 I’m currently learning **Django, SpringBoot** -->
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
