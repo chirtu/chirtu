@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2 align="left">Mobile apps development:</h2>
+<h5 align="left">Mobile apps development:</h5>
 
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
