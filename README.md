@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Mobile apps development:</h5>
+<!-- <h5 align="left">Mobile apps development:</h5> -->
 
 <p align="left"> 
 <!--  FLutter   -->
