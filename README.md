@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter and Django Projects**
 
 - 💬 Ask me about **Flutter, Dart, and Java.**
 
