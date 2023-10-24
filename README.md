@@ -10,8 +10,8 @@
 -  Mashujaa App - (https://play.google.com/store/apps/details?id=com.ujuzinet.mashujaa),
 -  Hopaje App - (https://play.google.com/store/apps/details?id=com.ujuzinet.hopaje),
 -  EMASUITE PMS (iOS &android) - (https://play.google.com/store/apps/details?id=com.ujuznet.emasuite_pms),(https://apps.apple.com/app/emasuite-pms),
--  RUWASA Management App (Not published online)
--  Tech Transfer (COSTECH Project for Technology Mapping, not yet published)
+<!-- -  RUWASA Management App (Not published online)
+-  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) -->
   
 
 - 👯 I’m looking to collaborate on **Flutter**
