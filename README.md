@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>
 
 - 🔭 I’m currently working on mobile applications: 
--  MazaoHub (iOS & android) - (https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub), (https://apps.apple.com/tz/app/mazaohub/id6449363392),
+<!---  MazaoHub (iOS & android) - (https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub), (https://apps.apple.com/tz/app/mazaohub/id6449363392),
 -  EMA Retail - (https://play.google.com/store/apps/details?id=com.ema.retail), 
 -  Mashujaa App - (https://play.google.com/store/apps/details?id=com.ujuzinet.mashujaa),
 -  Hopaje App - (https://play.google.com/store/apps/details?id=com.ujuzinet.hopaje),
 -  EMASUITE PMS (iOS &android) - (https://play.google.com/store/apps/details?id=com.ujuznet.emasuite_pms),(https://apps.apple.com/app/emasuite-pms),
-<!-- -  RUWASA Management App (Not published online)
+ -  RUWASA Management App (Not published online)
 -  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) -->
   
 
