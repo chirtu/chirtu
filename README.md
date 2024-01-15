@@ -14,7 +14,7 @@
 -  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) -->
   
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **Flutter** and *Laravel*
 
 - 💬 Ask me about **Flutter, Dart**
 
