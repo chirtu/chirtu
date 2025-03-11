@@ -14,9 +14,9 @@
 -  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) -->
   
 
-- 👯 I’m looking to collaborate on **Flutter** and **Laravel**
+- 👯 I’m looking to collaborate on **Flutter**, **React Js**  and **Laravel**
 
-- 💬 Ask me about **Flutter, Dart, Laravel**
+- 💬 Ask me about **Flutter, React Js, Laravel**
 
 - 📫 How to reach me **chitufatuma45@gmail.com**
 
