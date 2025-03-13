@@ -1,4 +1,4 @@
-<h1 align="start">Hey, I'm Fatma  👾 </h1>
+<h2 align="start">Hey, I'm Fatma  👾 </h2>
 <!-- <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3> -->
 
 
