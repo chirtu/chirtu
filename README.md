@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Fatma </h1>
+<h1 align="start">Hey, I'm Fatma  👾 </h1>
 <!-- <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>
+<!---- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>-->
 - I'm a software developer who loves creating meaningful products and experiences that solve real-world challenges. I'm passionate about making a positive impact through technology.
 <!---- 🔭 I’m currently working on mobile applications: 
  MazaoHub (iOS & android) - (https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub), (https://apps.apple.com/tz/app/mazaohub/id6449363392),
