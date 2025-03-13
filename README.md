@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatuma chitu, Mobile Applications developer </h1>
+<h1 align="center">Hey, I'm Fatma </h1>
 <!-- <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3> -->
 
 
