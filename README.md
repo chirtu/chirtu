@@ -1,9 +1,15 @@
-<h2 align="start">Hey, I'm Fatma  👾 </h2>
+<h4 align="start">Hey, I'm Fatma  👾 </h4>
 <!-- <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3> -->
 
 
 <!---- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirtu&label=Profile%20views&color=0e75b6&style=flat" alt="chirtu" /> </p>-->
-- I'm a software developer who loves creating meaningful products and experiences that solve real-world challenges. I'm passionate about making a positive impact through technology.
+- <h4> I'm a software developer who loves creating meaningful products and experiences that solve real-world challenges. I'm passionate about making a positive impact through technology. </h4>
+<p>Here are some things that inspire me:</p>
+<ul>From ideation to design and scaling — I enjoy the whole process 📲 </ul>
+<ul> Creating work environments that prioritize people and collaboration 👥</ul>
+<ul>Using tech to create solutions that are better for the planet 🌎</ul>
+<ul>All things open-source 📰</ul>
+
 <!---- 🔭 I’m currently working on mobile applications: 
  MazaoHub (iOS & android) - (https://play.google.com/store/apps/details?id=com.ujuzinet.mazaohub), (https://apps.apple.com/tz/app/mazaohub/id6449363392),
 -  EMA Retail - (https://play.google.com/store/apps/details?id=com.ema.retail), 
@@ -11,7 +17,7 @@
 -  Hopaje App - (https://play.google.com/store/apps/details?id=com.ujuzinet.hopaje),
 -  EMASUITE PMS (iOS &android) - (https://play.google.com/store/apps/details?id=com.ujuznet.emasuite_pms),(https://apps.apple.com/app/emasuite-pms),
  -  RUWASA Management App (Not published online)
--  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) -->
+-  Tech Transfer (COSTECH Project for Technology Mapping, not yet published) 
   
 
 - 👯 I’m looking to collaborate on **Flutter**, **React Js**  and **Laravel**
