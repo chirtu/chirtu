@@ -1,4 +1,4 @@
-<h4 align="start">Hey, I'm Fatma  👾 </h4>
+<h4 align="start">Hey, I'm Fatma   </h4>
 <!-- <h3 align="center">A passionate Mobile developer👩🏻‍💻 from Tanzania</h3> -->
 
 
@@ -6,10 +6,10 @@
 - <h4> I'm a software developer who loves creating meaningful products and experiences that solve real-world challenges. I'm passionate about making a positive impact through technology. </h4>
 <p>Here are some things that inspire me:</p>
 
-- From ideation to design and scaling — I enjoy the whole process 📲 
-- Creating work environments that prioritize people and collaboration 👥
-- Using tech to create solutions that are better for the planet 🌎
-- All things open-source 📰
+- From ideation to design and scaling — I enjoy the whole process  
+- Creating work environments that prioritize people and collaboration 
+- Using tech to create solutions that are better for the planet 
+- All things open-source 
   
 
 <!---- 🔭 I’m currently working on mobile applications: 
